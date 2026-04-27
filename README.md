@@ -6,7 +6,7 @@
 
 #### 🔧 What I Work With
 
-**Backend:** Java · Spring Boot · Hibernate · Kafka · RabbitMQ · REST APIs · Microservices
+**Backend:** Java . Python · Spring Boot · Hibernate · Kafka · RabbitMQ · REST APIs · Microservices
 
 **Frontend:** React · TypeScript · JavaScript
 
